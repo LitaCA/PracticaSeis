@@ -1,0 +1,4 @@
+PracticaSeis
+============
+
+C# &amp; MySQL
